@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1740401592 source:c:\users\tofirk\documents\codeblocks\gestionpersonnel\main.cpp
+	<iostream>
+	"Personnel.h"
+	"Technicien.h"
+	"Manutentionnaire.h"
+
+1740401651 source:c:\users\tofirk\documents\codeblocks\gestionpersonnel\src\personnel.cpp
+	"Personnel.h"
+	<iostream>
+
+1740401523 c:\users\tofirk\documents\codeblocks\gestionpersonnel\include\personnel.h
+	"Employe.h"
+
+1740400134 source:c:\users\tofirk\documents\codeblocks\gestionpersonnel\src\employe.cpp
+	"Employe.h"
+
+1740401815 c:\users\tofirk\documents\codeblocks\gestionpersonnel\include\employe.h
+	<iostream>
+
+1740400615 source:c:\users\tofirk\documents\codeblocks\gestionpersonnel\src\technicien.cpp
+	"Technicien.h"
+
+1740400592 c:\users\tofirk\documents\codeblocks\gestionpersonnel\include\technicien.h
+	"Employe.h"
+
+1740401020 source:c:\users\tofirk\documents\codeblocks\gestionpersonnel\src\manutentionnaire.cpp
+	"Manutentionnaire.h"
+
+1740400996 c:\users\tofirk\documents\codeblocks\gestionpersonnel\include\manutentionnaire.h
+	"Employe.h"
+
